@@ -1,0 +1,42 @@
+
+    body{
+     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(charusat.jpeg);
+     height:100%;
+     background-repeat: no-repeat;
+     background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+.center {
+     margin: auto;
+      width: 44%;
+      border: 4px solid white;
+      padding: 0px;
+      top: 10%;  
+      background-color:#2874A6;
+  }
+
+        .aboutmecpyright {   
+        color: white;
+        background-color: #E74C3C;
+        font-family: verdana;
+        text-align: center;
+        padding: 5px;
+        border-bottom: 1px solid white;
+        margin-bottom: 50px;
+        outline: 2px solid white;
+        }
+        h1.departments{
+          margin-top: 3px;
+        }
+    h1{
+        color: white;
+        background-color: #D68910;
+        font-family: verdana;
+        text-align: center;
+        border-bottom: 1px solid white;
+        padding: 10px;
+        margin-bottom: 50px;
+        outline: 2px solid white;
+      }
